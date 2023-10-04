@@ -1,7 +1,5 @@
-import React from "react";
+import Home from "common/home/Home";
 
-function App() {
-  return <div className="App">HI REACT</div>;
-}
+const App = () => <Home />;
 
 export default App;
